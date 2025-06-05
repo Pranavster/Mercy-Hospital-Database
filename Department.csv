@@ -1,0 +1,17 @@
+Dept_ID,Dept_type,Room_num
+101,Anesthesiology,ANE101
+102,Cardiology,CAR102
+103,ENT,ENT103
+104,Gastroenterology,GAS104
+105,Gynecology,GYN105
+106,Hematology,HEM106
+107,Pediatrics,PED107
+108,Neurology,NEU108
+109,Oncology,ONC109
+110,Ophthalmology,OPH110
+111,Orthopedic,ORT111
+112,Urology,URO112
+113,Psychiatry,PSY113
+114,General Surgery,GEN114
+115,Casualty,CAS115
+116,Radiology,RAD116
